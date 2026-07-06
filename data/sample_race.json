@@ -1,0 +1,22 @@
+{
+  "track_name": "Bahrain",
+  "total_laps": 57,
+  "pit_loss_time": 20,
+
+  "tyres": {
+    "soft": {
+      "base_lap_time": 90,
+      "deg_per_lap": 0.15
+    },
+    "medium": {
+      "base_lap_time": 91,
+      "deg_per_lap": 0.10
+    },
+    "hard": {
+      "base_lap_time": 92,
+      "deg_per_lap": 0.07
+    }
+  },
+
+  "safety_car_probability": 0.2
+}
